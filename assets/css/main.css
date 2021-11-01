@@ -5,7 +5,7 @@
 /* HEADER */
 
 .header {
-    background-image: url("http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-2.jpg");
+    background-image: url(../img/background/header.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -439,7 +439,7 @@
 .sliderView {
     max-height: 234px;
     width: 100%;
-    background-image: url("http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-search-2.jpg?id=1538");
+    background-image: url("../img/place/view1.jpg");
     background-repeat: no-repeat;
     background-size: cover;  
     background-position: center;
@@ -560,7 +560,7 @@
 .sliderTour-img {
     padding: 20px 15px 20px 35px !important;
     height: 450px;
-    background-image: url("http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/package-3.jpg");
+    background-image: url(../img/place/tour.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-origin: content-box, content-box;
@@ -688,11 +688,11 @@
 }
 
 .sliderView2-item1 {
-    background-image: url("http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-5-filter.jpg?id=1584");
+    background-image: url(../img/place/view2.jpg);
 }
 
 .sliderView2-item2 {
-    background-image: url("http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-6-filter.jpg?id=1585");
+    background-image: url(../img/place/view3.jpg);
 }
 
 

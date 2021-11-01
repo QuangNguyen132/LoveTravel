@@ -1,0 +1,504 @@
+<div class="header">
+            <div class="grid wide">
+                <!-- <div class="header-img" style="margin-bottom: -162px; background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-2.jpg);"></div> -->
+                
+                <!-- Header Navbar -->
+                <div class="header-navbar row">                
+                    <div class="navbar-logo col l-2 l-o-0-5 m-12 c-12">
+                        <a href="">
+                            <img class="navbar-logo-img" style="width: 160px;" src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/logo.png" alt="">
+                        </a>
+                    </div>
+    
+                    <div class="navbar-primary col l-8 m-0 c-0">
+                        <ul class="navbar-list">
+                            <li class="navbar-item">
+                                <a href="" class="navbar-item-link">HOME</a>
+                            </li>
+                            <li class="navbar-item">
+                                <a href="" class="navbar-item-link">PACKAGES</a>
+                                <ul class="navbar-item__sub-list">
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Search 1</a>
+                                        <span class="navbar-item__sub-label">HOT</span>
+                                    </li>
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Search 2</a>
+                                    </li>
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Tour packages</a>
+                                        <i class="navbar-item__sub-icon fas fa-caret-right"></i>
+                                        <ul class="navbar-item__add-sub-list">
+                                            <li class="navbar-item__sub-item">
+                                                <a href="" class="navbar-item__sub-link">Carousen</a>
+                                            </li>
+                                            <li class="navbar-item__sub-item">
+                                                <a href="" class="navbar-item__sub-link">Custom Map</a>
+                                            </li>
+                                            <li class="navbar-item__sub-item">
+                                                <a href="" class="navbar-item__sub-link">360 Panorama</a>
+                                            </li>
+                                            <li class="navbar-item__sub-item">
+                                                <a href="" class="navbar-item__sub-link">Default</a>
+                                            </li>                               
+                                        </ul>       
+                                    </li>
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Destination</a>
+                                    </li>
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Typology</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="navbar-item">
+                                <a href="" class="navbar-item-link">SHOP</a> 
+                                <ul class="navbar-item__sub-list">
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Archive</a>
+                                        <span style="background-color: #1bbc9b;" class="navbar-item__sub-label">NEW</span>
+                                    </li>
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Single product</a>
+                                    </li>
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Cart</a>
+                                    </li>
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Checkout</a>
+                                    </li>                               
+                                </ul>                           
+                            </li>
+                            <li class="navbar-item">
+                                <a href="" class="navbar-item-link">ABOUT US</a>
+                                <ul class="navbar-item__sub-list">
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">About us</a>
+                                    </li>
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">About us 2</a>
+                                    </li>
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">About us 3</a>
+                                    </li>                                                               
+                                </ul>         
+                            </li>
+                            <li class="navbar-item">
+                                <a href="" class="navbar-item-link">PAGES</a>
+                                <ul class="navbar-item__sub-list">
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Services</a>
+                                    </li>
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Agency Tours</a>
+                                    </li>
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Testimonials</a>
+                                    </li>    
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Prices</a>
+                                    </li>
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Promotions</a>
+                                    </li>
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Faq</a>
+                                    </li>    
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Coming Soon</a>
+                                    </li>
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">About Us</a>
+                                        <i class="navbar-item__sub-icon fas fa-caret-right"></i>
+                                        <ul class="navbar-item__add-sub-list">
+                                            <li class="navbar-item__sub-item">
+                                                <a href="" class="navbar-item__sub-link">About Us</a>
+                                            </li>
+                                            <li class="navbar-item__sub-item">
+                                                <a href="" class="navbar-item__sub-link">About Us 2</a>
+                                            </li>
+                                            <li class="navbar-item__sub-item">
+                                                <a href="" class="navbar-item__sub-link">About Us 3</a>
+                                            </li>                                                                    
+                                        </ul>      
+                                    </li>
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Contacts</a>
+                                        <i class="navbar-item__sub-icon fas fa-caret-right"></i>
+                                        <ul class="navbar-item__add-sub-list">
+                                            <li class="navbar-item__sub-item">
+                                                <a href="" class="navbar-item__sub-link">Contact 1</a>
+                                            </li>
+                                            <li class="navbar-item__sub-item">
+                                                <a href="" class="navbar-item__sub-link">Contact 2</a>
+                                            </li>                                                                                                            
+                                        </ul>     
+                                    </li>                                                           
+                                </ul>       
+                            </li>
+                            <li class="navbar-item">
+                                <a href="" class="navbar-item-link">NEWS</a>
+                                <ul class="navbar-item__sub-list">
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Archive</a>
+                                    </li>
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Single Post</a>
+                                        <i class="navbar-item__sub-icon fas fa-caret-right"></i>
+                                        <ul class="navbar-item__add-sub-list">
+                                            <li class="navbar-item__sub-item">
+                                                <a href="" class="navbar-item__sub-link">Full Width</a>
+                                            </li>
+                                            <li class="navbar-item__sub-item">
+                                                <a href="" class="navbar-item__sub-link">Right Sidebar</a>
+                                            </li>
+                                            <li class="navbar-item__sub-item">
+                                                <a href="" class="navbar-item__sub-link">Left Sidebar</a>
+                                            </li>                                                                    
+                                        </ul>     
+                                    </li>                                                                                              
+                                </ul>                                
+                            </li>
+                            <li class="navbar-item">
+                                <a href="" class="navbar-item-link">CONTACTS</a>
+                                <ul class="navbar-item__sub-list">
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Contact 1</a>
+                                    </li>
+                                    <li class="navbar-item__sub-item">
+                                        <a href="" class="navbar-item__sub-link">Contact 2</a>
+                                    </li>                                                                                              
+                                </ul>
+                            </li>
+                            <li class="navbar-item">
+                                <a href="" class="navbar-item-link--book navbar-item-link">BOOK NOW</a>
+                            </li>
+                            
+                        </ul>
+                    </div>
+    
+                    <div class="navbar-menu col l-1 m-12 c-12">
+                        <a href="" class="navbar-menu__link">
+                            <img src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/menu.png" alt="" class="navbar-menu-icon">
+                        </a>
+                    </div>
+                </div>
+                
+                <!-- Header Content -->
+                <div class="header__content">
+                    <h1 class="header__content-title">
+                        Search your next
+                        <u> Holiday</u>
+                    </h1>
+                    <h6 class="header__content-sub-title">
+                        CHECK OUR BEST PROMOTIONS
+                    </h6>
+                    <div class="header__content-select">
+                        <select class="header__content-select-input">
+                            <option class="header__content-select-option" value="0">Choose your Destination ...</option>
+                            <option class="header__content-select-option" value="0">Europe</option>
+                            <option class="header__content-select-option" value="0">  - Italy</option>
+                            <option class="header__content-select-option" value="0">  - Netherlands</option>
+                            <option class="header__content-select-option" value="0">Asia</option>
+                            <option class="header__content-select-option" value="0">  - Thailandia</option>
+                            <option class="header__content-select-option" value="0">United States</option>
+                            <option class="header__content-select-option" value="0">Oceania</option>
+
+                        </select>
+                        <i class="header__content-select-icon fas fa-search"></i>
+                    </div>
+                    <div class="header__content-section grid wide">
+                        <div class="header__content-section-list row">
+                            <div class="header__content-section-item l-1-5 m-12 c-12 l-o-1-5">
+                                <a href="#" class="header__content-section-item-icon">
+                                    <img src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/t-relax.png" alt="">
+                                    <h6 class="header__content-section-item-text">RELAX</h6>
+                                </a>
+                            </div>
+                            <div class="header__content-section-item l-1-5 m-12 c-12">
+                                <a href="#" class="header__content-section-item-icon">
+                                    <img src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/t-cultural.png" alt="">
+                                    <h6 class="header__content-section-item-text">CULTURAL</h6>
+                                </a>
+                            </div>
+                            <div class="header__content-section-item l-1-5 m-12 c-12">
+                                <a href="#" class="header__content-section-item-icon">
+                                    <img src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/t-sport.png" alt="">
+                                    <h6 class="header__content-section-item-text">SPORT</h6>
+                                </a>
+                            </div>
+                            <div class="header__content-section-item l-1-5 m-12 c-12">
+                                <a href="#" class="header__content-section-item-icon">
+                                    <img src="http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/t-history.png" alt="">
+                                    <h6 class="header__content-section-item-text">HISTORY</h6>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        .header {
+    position: relative;
+    background-image: url("http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-2.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;  
+    padding-top: 70%;
+}
+
+.header-img {
+    /* padding-top: 100%;     */
+    background-repeat: no-repeat;
+    background-size: contain;  
+    height: 1056px;   
+}
+
+.header-navbar {
+    background-color: rgba(0, 0, 0, 0.12);    
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;   
+    height: 103px;
+    max-width: 101%;
+}
+
+.navbar-logo {
+    padding: 0 50px 0 60px;
+}
+
+.navbar-logo-img {
+    position: relative;
+    top: -1.5px;
+    right: -4.5px;
+}
+
+.navbar-list {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding-left: 0;
+}
+
+.navbar-item {
+    position: relative;
+    top: 1px;
+    right: -12px;
+}
+
+.navbar-item-link {
+    font-size: 1.4rem;
+    line-height: 1.4rem;
+    font-weight: normal;
+    text-decoration: none;
+    color: var(--white-color);
+    padding: 25px 15px;
+    letter-spacing: 2px;
+}
+
+.navbar-item:hover .navbar-item__sub-list {
+    display: block;
+}
+
+.navbar-item__add-sub-list,
+.navbar-item__sub-list {
+    display: none;
+    position: absolute;
+    top: 250%;
+    left: -5px;
+    list-style: none;
+    padding-left: 0;
+    width: 190px;
+}
+
+.navbar-item__sub-item:nth-child(2):hover .navbar-item__add-sub-list {
+    display: block;
+}
+
+.navbar-item__sub-item:nth-child(3):hover .navbar-item__add-sub-list {
+    display: block;
+}
+
+.navbar-item__sub-item:nth-child(8):hover .navbar-item__add-sub-list {
+    display: block;
+}
+
+.navbar-item__sub-item:nth-child(9):hover .navbar-item__add-sub-list {
+    display: block;
+}
+
+.navbar-item__add-sub-list {
+    display: none;
+    position: absolute;
+    top: 0%;
+    margin-left: 102%;
+    padding-left: 25px;
+    z-index: 1;
+}
+
+.navbar-item__sub-item {
+    padding: 15px 25px;
+    width: 100%;
+    float: left;
+    box-sizing: border-box;
+    border-bottom: 1px solid #f1f1f1;
+    text-align: left;
+    position: relative;
+    box-shadow: 0 2px 5px #f1f1f1;
+    background-color: var(--white-color);
+    z-index: 1;
+}
+
+.navbar-item__sub-link {
+    text-decoration: none;
+    font-size: 1.4rem;
+    float: left;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-weight: normal;
+    letter-spacing: 2px;
+    color: #9a9a9a;
+}
+
+.navbar-item__sub-icon {
+    position: absolute;
+    top: 32%;
+    right: 10%;
+    font-size: 1.6rem;
+    color: #9a9a9a;
+}
+
+.navbar-item__sub-label {
+    position: absolute;
+    top: 33%;
+    right: 13%;
+    background-color: #f76570;
+    border-radius: 3px;
+    color: var(--white-color);
+    font-size: 1rem;
+    line-height: 10px;
+    letter-spacing: 2px;
+    padding: 2px 5px;
+}
+
+.navbar-item__sub-item:hover {
+    background-color: #f9f9f9;
+}
+
+.navbar-item-link--book {
+    background-color: #ba71da;
+    border-radius: 30px;    
+    padding: 8.5px 15px 8.5px;
+    margin-left: 25px;
+    margin-top: 12px;
+}
+
+.navbar-menu {    
+    position: absolute;
+    top: 35px;
+    right: 68px;
+    height: 100%;
+}
+
+.navbar-menu-icon {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 25px;
+}
+
+/* Header__content */
+.header__content {
+    position: absolute;
+    top: 24%;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.header__content-title {
+    color: var(--white-color);
+    font-size: 5rem;
+    margin-bottom: 0;
+    padding-bottom: 51.5px;
+}
+
+.header__content-sub-title {
+    font-size: 2rem;
+    line-height: 2rem;
+    letter-spacing: 4px;
+    font-weight: normal;
+    color: var(--white-color);
+    margin-top: 0;
+    margin-bottom: 65.5px;
+}
+
+.header__content-select {
+    width: 100%;    
+}
+
+.header__content-select-icon {
+    position: absolute;
+    font-size: 2rem;
+    color: #a3a3a3;
+    top: 48%;
+    right: 39%;
+}
+
+.header__content-select-input {
+    font-size: 1.5rem;
+    padding: 12px 25px 12.5px 25px;
+    width: 370px;
+    border-radius: 30px;
+    border: 1px solid #f9f9f9;
+    color: #a3a3a3;
+    -webkit-appearance: none;
+    cursor: pointer;
+    margin-bottom: 55.5px;
+}
+
+.header__content-section {
+    margin: auto;
+}
+
+.header__content-select-option {
+    padding: 10px 20px;
+    
+}
+
+.header__content-section-list {
+    display: inline-flex;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.header__content-section-item {
+    color: var(--white-color);
+    background-color: rgba(0, 0, 0, 0.21);
+    margin: 15px;  
+    padding: 20px 35.5px;  
+}
+
+.header__content-section-item-icon {
+    text-decoration: none;
+    color: var(--white-color);
+}
+
+.header__content-section-item-icon img {
+    height: 40px;
+    width: 40px;
+    margin-bottom: 8px;
+}
+
+.header__content-section-item h6 {
+    font-size: 1.1rem;
+    line-height: 1.1rem;
+    letter-spacing: 2px;
+    font-weight: normal;
+    margin: 0;
+}
