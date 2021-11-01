@@ -224,6 +224,10 @@
     }
 
     .footer-detail-list {
-        padding: 10px 70px 0 70px;
+        padding-top: 20px;
+    }
+
+    .footer-detail-list h6 {
+        margin-bottom: 15px;
     }
 }
