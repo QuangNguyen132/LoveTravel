@@ -5,7 +5,7 @@
 /* HEADER */
 
 .header {
-    background-image: url(../img/background/header.jpg);
+    background-image: url("../img/background/header.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -831,7 +831,7 @@
 
 /* FOOTER */
 .footer {
-    background-image: url("http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-7.jpg?id=1602");
+    background-image: url("../img/background/footer.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
