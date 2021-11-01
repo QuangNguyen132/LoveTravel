@@ -1,5 +1,5 @@
 /* Tablet - PC low resolution */
-@media (min-width: 740px) and (max-width: 1023px) {
+@media (min-width: 740px) and (max-width: 1344px) {
     .navbar-primary {
         display: none
     }
@@ -168,19 +168,25 @@
         padding: 0 !important;
         position: relative;
         margin-top: 20px;
+        background-size: contain;
+        /* height: 50%; */
     }
 
     .sliderTour-date {
         /* max-width: unset;
+        width: 100%; */
+        position: absolute;
         width: 100%;
-        position: absolute; */
-        left: -89px;
-        bottom: -72px;
+        height: 100%;
+        left: 50%;
+        top: 99%;
+        transform: translate(-50%, -60%);
+        display: inline-flex;
         flex-direction: column;
     }
 
     .sliderTour-option {
-        margin-top: 460px;
+        margin-top: 260px;
     }
 
     .sliderTour-detail {
